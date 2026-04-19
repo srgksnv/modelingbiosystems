@@ -1,17 +1,11 @@
-# Modeling Bio Systems
+# Modeling BioSystems
 
 Coming Soon...
 
 
 ## 🚀 About Us
 
-Making computer models of pharmaceutical treatments to solve high-value problems at any milestone in your R&D. 
-
-Designed, built, and tested with care by humans in Boston, Massachusetts. 
-
-Models developed and tested using AI for highest quality. 
-
-Model are validated against global health authorities standards for highest levels of reliability to inform your decisions. 
+We custom-craft computational models for diverse therapeutic modalities to solve your most high-value challenges with data interpretation and data-driven decisions at any R&D milestone. Designed, built and tested by human experts in Boston, Massachusetts, and enhanced by advanced AI, our models are rigorously validated against global health authority standards to deliver regulatory-grade reliability.
 
 
 ## 📬 Get in Touch
